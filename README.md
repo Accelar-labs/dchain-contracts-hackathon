@@ -1,4 +1,4 @@
-# frax-depin-protocol
+# dchain-depin-protocol
 <br/>
 Integrate depin chains on Dchain - modular connections by oracles - Based on web3 onchain games. Currently connecting with https://akash.network/docs/
 <br/>
