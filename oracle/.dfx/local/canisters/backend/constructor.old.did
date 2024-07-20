@@ -1,0 +1,3 @@
+service: () -> {
+    getAkashAddress: (text) -> (text);
+}
