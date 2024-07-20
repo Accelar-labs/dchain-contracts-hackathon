@@ -23,5 +23,6 @@ The backend web2 integration is built on: https://github.com/Accelar-labs/accela
 The frontend web2 integration is built on: https://github.com/bruno353/accelar-frontend 
 <br/>
 API docs: https://api.accelar.io/api-docs
-
+<br/>
+App: www.accelar.io
 <br/>
